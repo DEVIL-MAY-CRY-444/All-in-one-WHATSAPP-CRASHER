@@ -1,7 +1,11 @@
 
 # All-in-one-WHATSAPP-CRASHER
 
-This tool send a malicious messages to target which causes WhatsApp to crash 
+This tool send a malicious messages to target which causes WhatsApp to crash
+ Note : Tool is Made of Educational Purposes only.
+       Please try not to harm anyone device 
+       it's For Fun Purpose Not For Revenge
+
 ## Author
 
 - [@git](https://www.github.com/DEVIL-MAY-CRY-444)
